@@ -1,0 +1,9 @@
+<resources>
+    <declare-styleable name="AnalogClock">
+        <attr name="dial" format="reference"/>
+        <attr name="hour" format="reference"/>
+        <attr name="minute" format="reference"/>
+        <attr name="second" format="reference"/>
+        <attr name="showSecondHand" format="boolean"/>
+    </declare-styleable>
+</resources>
