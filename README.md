@@ -1,5 +1,7 @@
 # Analog-Clock-View
 
+[![Download](https://api.bintray.com/packages/libraryorg/maven/analog-clock-view/images/download.svg) ](https://bintray.com/libraryorg/maven/analog-clock-view/_latestVersion)
+
 This is a custom view to show Analog Clock in android. It supports API 16+ versions.
 
 Screenshots
