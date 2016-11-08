@@ -7,6 +7,11 @@ Screenshots
 
 ![Phone](screenshot/Screenshot.png "Screenshot")
 
+##Add Dependencies
+- Inside your build.gradle:
+```xml
+    compile 'com.imankur.library:analogclockview:1.0.0'
+```
 ##Usage
 - Inside your xml:
 ```xml
